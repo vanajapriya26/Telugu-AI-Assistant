@@ -4,8 +4,11 @@ This Python script allows users to play songs from YouTube or Spotify by typing 
 
 ## Features
 **YouTube Integration:** Search for and play music videos directly from YouTube.
+
 **Spotify Integration:** Search for and play tracks directly from Spotify.
+
 **Natural Language Processing:** Use Google Generative AI to interpret user commands.
+
 **Automatic Browser Opening:** Opens the YouTube or Spotify link in the default web browser.
 
 ## Prerequisites
