@@ -6,10 +6,10 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from googleapiclient.discovery import build
 
 # Replace with your actual API keys
-GOOGLE_API_KEY = 'AIzaSyDe79aQU1UuI91rQnoqYtm1NVsQz6u7xVA'
-SPOTIPY_CLIENT_ID = '3267d7e977a1465fa84086dc16c9568f'
-SPOTIPY_CLIENT_SECRET = 'fac29fe11dbb449ca226c3557c586f50'
-YOUTUBE_API_KEY = 'AIzaSyBAdQVzvh5ly_e7l6Haq5aFIOY9gufrNr0'
+GOOGLE_API_KEY = ''
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
+YOUTUBE_API_KEY = ''
 
 # Initialize the YouTube API client
 def initialize_youtube_client(api_key):
