@@ -15,8 +15,8 @@ This Python script allows users to play songs from YouTube or Spotify by typing 
 
 Before running the script, ensure you have the following:
 
-Python 3.7+
-spotipy library for Spotify API integration
-google-api-python-client for YouTube API integration
-langchain-google-genai for Google Generative AI integration
-Valid API keys for YouTube, Spotify, and Google Generative AI
+- Python 3.7+
+- spotipy library for Spotify API integration
+- google-api-python-client for YouTube API integration
+- langchain-google-genai for Google Generative AI integration
+- Valid API keys for YouTube, Spotify, and Google Generative AI
